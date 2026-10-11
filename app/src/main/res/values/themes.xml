@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        画面の見た目(色・角丸など)はComposeのGalleryTheme(ui/theme/Theme.kt)で
+        管理する。ここでは、アクションバーを使わないことだけを指定する、
+        最小限のベーステーマを定義する。
+    -->
+    <style name="Theme.Gallery" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
